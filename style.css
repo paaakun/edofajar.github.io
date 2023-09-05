@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: hwb(180 20% 23%);
+}
+
+#WhatImPlaying {
+  padding-top: 5rem;
+  background-color: #33c4c4;
+}
+
+#AboutMe {
+  padding-top: 5rem;
+}
+
+#contact {
+  padding-top: 5rem;
+}
